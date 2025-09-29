@@ -1,0 +1,35 @@
+.ex{
+    text-align: center;
+
+    .num1_but{
+        font-size: 50px;
+        border-radius: 10px;
+        color: white;
+        background-color: darkseagreen;
+        transition: 0.3s;
+        cursor: pointer;
+
+        &:hover{
+            color: black;
+            background-color: lightgreen;
+            transition: 0.3s;
+        }
+    }
+
+.num2_but{
+        margin-top: 25px;
+        font-size: 50px;
+        border-radius: 10px;
+        color: white;
+        background-color: darkseagreen;
+        transition: 0.3s;       
+         cursor: pointer;
+
+        &:hover{
+            color: black;
+            background-color: lightgreen;
+            transition: 0.3s;
+        }
+    }
+}
+

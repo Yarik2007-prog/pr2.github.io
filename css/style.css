@@ -1,0 +1,34 @@
+.ex {
+  text-align: center;
+}
+.ex .num1_but {
+  font-size: 50px;
+  border-radius: 10px;
+  color: white;
+  background-color: darkseagreen;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.ex .num1_but:hover {
+  color: black;
+  background-color: lightgreen;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.ex .num2_but {
+  margin-top: 25px;
+  font-size: 50px;
+  border-radius: 10px;
+  color: white;
+  background-color: darkseagreen;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.ex .num2_but:hover {
+  color: black;
+  background-color: lightgreen;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
